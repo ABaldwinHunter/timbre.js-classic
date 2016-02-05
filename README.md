@@ -22,6 +22,7 @@ Timbre.js runs on modern browsers for Windows/Mac/Linux/iOS/Android or node.js.
 ![node.js 0.8-](http://mohayonao.github.com/timbre.js/misc/img/nodejs.png)
 
 ## Installation ##
+
 ### browser
 Include the `timbre.js` file. It will install itself as `timbre`, `T` under the global namespace.
 
